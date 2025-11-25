@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://via.placeholder.com/150" alt="Logo do Projeto" width="120">
+  <img src="https://imgur.com/a/q76C7Ub" alt="Logo do Projeto" width="120">
   <br>
   [CHAVEIRO GAMA]
   <br>
